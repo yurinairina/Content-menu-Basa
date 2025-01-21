@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Context Menu</string>
-    <string name="input_text">Введите текст!</string>
-    <string name="title_change_color">Поменять цвет</string>
+    <string name="input_text"> Оценка от 1 до 5!</string>
+    <string name="title_change_color">Цветовое качество</string>
     <string name="title_change_text_size">Поменять размер шрифта</string>
+    <string name="exsit">Выход из программы </string>
+    <string name="numero_random"> Ваше случайное число </string>
+    <string name="random_button">Получите случайное число</string>
+    <string name="text_mode"> Оценка неформат</string>
+    <string name="application_text">Данные внесены вручную</string>
 </resources>

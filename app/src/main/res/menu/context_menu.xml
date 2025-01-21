@@ -4,7 +4,9 @@
     android:id="@+id/menu_change_color"
     android:title="@string/title_change_color"/>
     <item
-        android:id="@+id/menu_change_text_size"
-        android:title="@string/title_change_text_size"/>
+        android:id="@+id/menu_exitMenuMain"
+        android:orderInCategory="50"
+        android:title="@string/exsit"
+       />
 
 </menu>
